@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eoptronar.github.io/sitemap.html.gz
+Sitemap: https://eoptronar.github.io/app/sitemap.html.gz
+Sitemap: https://eoptronar.github.io/assets/sitemap.html.gz
+Sitemap: https://eoptronar.github.io/css/sitemap.html.gz
+Sitemap: https://eoptronar.github.io/includes/sitemap.html.gz
+Sitemap: https://eoptronar.github.io/item/sitemap.html.gz
+Sitemap: https://eoptronar.github.io/src/sitemap.html.gz
